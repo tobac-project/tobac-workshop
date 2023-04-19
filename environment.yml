@@ -12,5 +12,6 @@ dependencies:
   - xarray
   - cartopy
   - trackpy
+  - pip
   - pip:
      - "--editable=https://github.com/tobac-project/tobac/tree/RC_v1.5.0"
