@@ -14,4 +14,4 @@ dependencies:
   - trackpy
   - pip
   - pip:
-     - "--editable=git+https://github.com/tobac-project/tobac.git@RC_1.5.0#egg=tobac"
+     - "--editable=git+https://github.com/tobac-project/tobac.git@RC_v1.5.0#egg=tobac"
