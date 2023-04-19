@@ -1,0 +1,19 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - scikit-image
+  - scikit-learn
+  - pandas
+  - pytables
+  - matplotlib
+  - iris
+  - xarray
+  - libnetcdf=4.8
+  - cartopy
+  - trackpy
+  - pip
+  - pip:
+     - "--editable=git+https://github.com/tobac-project/tobac.git@RC_v1.5.0#egg=tobac"
