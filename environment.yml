@@ -11,6 +11,7 @@ dependencies:
   - matplotlib
   - iris
   - xarray
+  - libnetcdf=4.8
   - cartopy
   - trackpy
   - pip
